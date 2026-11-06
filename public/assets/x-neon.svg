@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><defs><filter id="g"><feGaussianBlur stdDeviation="10"/></filter></defs><path d="M48 48L152 152M152 48L48 152" stroke="#00eaff" stroke-width="30" stroke-linecap="round" filter="url(#g)"/><path d="M48 48L152 152M152 48L48 152" stroke="#7cffff" stroke-width="18" stroke-linecap="round"/></svg>
